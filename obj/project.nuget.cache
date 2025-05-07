@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aJTAyOowXcI=",
   "success": true,
   "projectFilePath": "D:\\CLONACION DE TRABAJO EN GRUPO\\repointegrantes\\repointegrantes.csproj",
+=======
+  "dgSpecHash": "RBZ66TpHdx8=",
+  "success": true,
+  "projectFilePath": "D:\\yhonam\\repointegrantes\\repointegrantes.csproj",
+>>>>>>> 9fb2ae93361410a5b488c9de3bb50c67f89720ee
   "expectedPackageFiles": [],
   "logs": []
 }

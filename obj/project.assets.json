@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\CLONACION DE TRABAJO EN GRUPO\\repointegrantes\\repointegrantes.csproj",
       "projectName": "repointegrantes",
       "projectPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\repointegrantes\\repointegrantes.csproj",
       "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
       "outputPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\repointegrantes\\obj\\",
+=======
+      "projectUniqueName": "D:\\yhonam\\repointegrantes\\repointegrantes.csproj",
+      "projectName": "repointegrantes",
+      "projectPath": "D:\\yhonam\\repointegrantes\\repointegrantes.csproj",
+      "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
+      "outputPath": "D:\\yhonam\\repointegrantes\\obj\\",
+>>>>>>> 9fb2ae93361410a5b488c9de3bb50c67f89720ee
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
